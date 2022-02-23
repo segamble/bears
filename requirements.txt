@@ -1,5 +1,4 @@
 fastai
 ipywidgets
 fastbook
-fastai.vision.widgets
 voila

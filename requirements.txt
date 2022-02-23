@@ -1,0 +1,6 @@
+fastai
+ipywidgets
+fastai.callback.all
+fastbook
+fastai.vision.widgets
+voila
